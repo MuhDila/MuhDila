@@ -11,13 +11,5 @@
 
 - 💬 Ask me about anything [here](https://github.com/MuhDila/MuhDila/issues)
 
-
-
-<div align="center">
-<a href="https://github.com/MuhDila/">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhDila&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhDila&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="albimdkr"/>
-
-</a>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhDila&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhDila&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
